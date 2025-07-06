@@ -38,7 +38,7 @@
 
 ---
 
-### 🔥 GitHub Streak
+### 🔥 GitHub Streak <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg" width="20"/>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ibrahem-be&theme=tokyonight" alt="Ahmed's GitHub streak" />
